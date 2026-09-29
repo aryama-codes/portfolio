@@ -1,0 +1,34 @@
+*{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+button{
+    background-color: blue;
+    color: whitesmoke;
+}
+h1{
+    align-items: center;
+}
+a{
+    color: cyan;
+}
+.box1{
+    height: 300px;
+    width: 500px;
+    background-image: url('food.jpg');
+    background-size: cover;
+}
+.box2{
+    height: 300px;
+    width: 500px;
+    background-image: url('images3.jpg');
+    background-size: cover;
+    padding-left:50px ;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    
+}
